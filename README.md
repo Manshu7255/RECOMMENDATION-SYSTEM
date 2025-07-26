@@ -61,4 +61,6 @@ Recommendation engines like the one we built are the **backbone of personalized 
 
 # Output :
 
+<img width="895" height="535" alt="Image" src="https://github.com/user-attachments/assets/37515c69-00fa-4d19-b646-71e47bc7cc0a" />
+
 
